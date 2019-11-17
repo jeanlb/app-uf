@@ -1,3 +1,4 @@
+-- criacao de tabela para o caso de usar o banco de dados H2
 CREATE TABLE unidade_federativa ( 
    id BIGINT NOT NULL AUTO_INCREMENT, 
    nome_estado VARCHAR(50) NOT NULL, 
