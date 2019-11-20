@@ -1,5 +1,6 @@
 HELP.md
 target/
+src/main/resources/application-dev_h2.properties
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
